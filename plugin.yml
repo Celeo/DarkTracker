@@ -1,0 +1,9 @@
+name: DarkTracker
+version: 1.2.2.1
+author: Celeo
+description: Keeps track of things
+main: net.thedarktide.celeo.DarkTrackerCore
+commands:
+  darktracker:
+    usage: /<command> reload
+    description: Reloads from the configuration

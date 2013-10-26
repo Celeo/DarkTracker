@@ -1,0 +1,15 @@
+trackLogin: false
+trackLogout: false
+trackBlockBreak:
+- 14
+- 15
+- 56
+- 129
+trackBlockPlace: []
+trackGameModeSwitch: false
+trackPlayerKill: false
+trackPlayerDeath: false
+trackOpenChest: true
+trackPlayerCommand: false
+trackAllBlockBreaks: false
+trackAllBlockPlaces: false
